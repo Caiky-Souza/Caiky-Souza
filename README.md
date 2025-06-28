@@ -1,15 +1,20 @@
 
 
 <!--- Create main div for content align-->
-<div title="container div" width="70%" align="middle">
+<div title="container div" width="70%" align="left">
 
 <!---Set a pixel-art image-->
 <img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/pixelart.jpg" width="60%">
 
 <!---Bio-->
-<h1>💻 Whoami</h1>
-<p font-size="50px">I'm a 17-year-old aspiring full-stack software engineer and cybersecurity enthusiast. Currently, I'm studying CS50x and CS50p while building personal projects. I've earned FreeCodeCamp certifications in HTML5 and CSS3 and am actively learning Python, JavaScript, and C. With two years of experience using disnake and discord.py, I've developed utility and RPG bots for Discord. Passionate about both software development and digital defense, I aim to integrate these fields in my future career.</p>
+<h1 font-size="100px">💻 $ whoami</h1>
+<div width="50px">
+ 
+Hi, my name is **Caiky**, i'm just aspiring become a full-stack **software engineer**. Currently, I'm studying CS50x and CS50p while building personal projects. I've completed FreeCodeCamp HTML5 and CSS3 courses and i am actively learning **Python**, **JavaScript**, and **C**. 
 
+With around two years of experience using disnake and discord.py python libraries, I've developed utility and RPG bots for Discord. Passionate about both software development and digital defense, I aim to integrate these fields in my future career.
+
+</div>
 <!---Contact informations-->
 <h2>📎 Socials</h2>
 <a href="https://discord.gg/XbpBs2xG">
@@ -21,7 +26,7 @@
  
 
 <!---My skills paragraph-->
-<h2>📚 Skills</h2>
+# 📚 Skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -39,18 +44,14 @@
   
 
 <!---Profile Status-->
-<h2>📁 Stats</h2>
+# 📁 Stats
 
-![Caiky-Souza's Stats](https://github-readme-stats.vercel.app/api?username=Caiky-Souza&theme=react&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Caiky-Souza&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=normal)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Caiky-Souza&theme=blue_navy&hide_border=false&layout=normal)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
 
-![Caiky-Souza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caiky-Souza&theme=react&hide_border=true)
-
-<!---My lerning platforms-->
-<h2>🎓 Knowledge</h2>
-
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 <!---Close main-div container-->
 </div>
+
+
