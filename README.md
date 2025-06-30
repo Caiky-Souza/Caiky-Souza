@@ -4,7 +4,7 @@
 <div title="container div" width="70%" align="left">
 
 <!---Set a pixel-art image-->
-<img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/pixelart.jpg" width="60%">
+<img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250629_214929.png" width="100%">
 
 <!---Bio-->
 <h1 font-size="100px">💻 $ whoami</h1>
