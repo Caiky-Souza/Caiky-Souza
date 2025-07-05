@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/banner.png" width="100%" alt="Banner do perfil">
+  <img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250705_195603.jpg" width="100%" alt="Banner do perfil">
 
   <!-- Apresentação -->
   <h1>💻 $ whoami</h1>
