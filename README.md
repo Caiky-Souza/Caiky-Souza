@@ -18,33 +18,31 @@ With around two years of experience using disnake and discord.py python librarie
 <!---Contact informations-->
 <h2>📎 Socials</h2>
 <a href="https://discord.gg/XbpBs2xG">
- <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
+ <img height="50px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
 </a>          
 <a href="mailto:caikyhortasouza25@gmail.com">
-<img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
+<img height="50px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
 </a>
  
-
+<div align="center">
+ 
 <!---My skills paragraph-->
-# 📚 Skills
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+# ⚒️ Development Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50px" alt="lua logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" alt="c logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" alt="arduino logo"  />
 
   
 
 <!---Profile Status-->
-# 📁 Stats
+# 📌 Stats
+
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Caiky-Souza&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=normal)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Caiky-Souza&theme=blue_navy&hide_border=false&layout=normal)
