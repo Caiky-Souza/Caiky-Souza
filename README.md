@@ -30,7 +30,7 @@
 
   <!-- Skills -->
   ### ⚒️ Development Skills
-  <img src="https://skillicons.dev/icons?i=git,html,css,c,js,python,lua,arduino" alt="Dev Skills">
+  <img src="https://skillicons.dev/icons?i=git,html,css,c,js,python,arduino" alt="Dev Skills">
 
   <!-- Frameworks e ferramentas -->
   ### 🔧 Frameworks and Tools
