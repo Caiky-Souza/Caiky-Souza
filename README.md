@@ -34,7 +34,7 @@
 
   <!-- Frameworks e ferramentas -->
   ### 🔧 Frameworks and Tools
-  <img src="https://skillicons.dev/icons?i=django,vscode,linux,bash" alt="Ferramentas">
+  <img src="https://skillicons.dev/icons?i=sqlite,django,vscode,linux,bash" alt="Ferramentas">
 
   <!-- Status -->
   ### 📌 GitHub Stats
