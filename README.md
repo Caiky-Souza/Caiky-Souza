@@ -5,7 +5,7 @@
   <img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250705_195603.jpg" width="100%" alt="Banner do perfil">
 
   <!-- Apresentação -->
-  <h1>💻 $ whoami</h1>
+  # 💻 $ whoami
   <p align="center">
     Hello! i'm <strong>Caiky</strong>  — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br>
     
@@ -35,10 +35,12 @@
   <!-- Frameworks e ferramentas -->
   ### 🔧 Frameworks and Tools
   <img src="https://skillicons.dev/icons?i=sqlite,django,vscode,linux,bash" alt="Ferramentas">
-
+  <hr>
+  
   <!-- Status -->
-  ### 📌 GitHub Stats
+  # 📌 GitHub Stats
   <img src="https://nirzak-streak-stats.vercel.app/?user=Caiky-Souza&theme=blue_navy&hide_border=true" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=true&layout=donut" alt="Top Langs">
+  <hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=true&layout=compact" alt="Top Langs">
   
 </div>
