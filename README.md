@@ -13,11 +13,11 @@
 </blockquote>
 
 <p><em>— Inspired by Wrench, Watch Dogs 2 (fictional character)</em></p>
- 
+ <br>
   <p align="center">
-    Hello! i'm <strong>Caiky</strong>  — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br>
+    Hello! i'm <strong>Caiky</strong> — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br>
       <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Understanding+systems+is+the+first+step+to+improving+them" />
+      <img src="https://readme-typing-svg.herokuapp.com/?color=1161bd&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Understanding+systems+is+the+first+step+to+improving+them" />
       <!-- Frase com efeito de digitação animado (SVG) -->
 <p align="center">
 </p>
@@ -51,10 +51,10 @@
   ### 🔧 Frameworks and Tools
   <img src="https://skillicons.dev/icons?i=sqlite,django,vscode,linux,bash" alt="Ferramentas">
   <hr>
-  
+
   <!-- Status -->
   # 📌 GitHub Stats
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Caiky-Souza&theme=blue_navy&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&bg_color=0d1117&li" alt="Streak Stats">
   <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=true&layout=compact" alt="Top Langs">
   
