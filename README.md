@@ -50,7 +50,7 @@
   <!-- Frameworks e ferramentas -->
   ### 🔧 Frameworks and Tools
   <img src="https://skillicons.dev/icons?i=sqlite,django,vscode,linux,bash" alt="Ferramentas">
-  <hr>
+  
 
   <!-- Status -->
   # 📌 GitHub Stats
