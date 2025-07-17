@@ -1,11 +1,12 @@
 <!-- Container principal -->
 <div align="center">
-
-  <!-- Banner -->
+<img src="https://img.shields.io/badge/Welcome_to_my_terminal-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000&color=00BFFF" />
+  <!-- Banner -->   
   <img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250705_195603.jpg" width="100%" alt="Banner do perfil">
 
   <!-- Apresentação -->
-  # 💻 $ whoami
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=>&nbsp+Accessing+Caiky's+workspace" />
+  <h1 style="color:blue;">💻 $ whoami</h1>
   
   <!-- Frase de destaque -->
 <blockquote>
@@ -13,18 +14,20 @@
 </blockquote>
 
 <p><em>— Inspired by Wrench, Watch Dogs 2 (fictional character)</em></p>
- <br>
+ 
+ ---
+ 
   <p align="center">
-    Hello! i'm <strong>Caiky</strong> — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br>
-      <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=1161bd&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Understanding+systems+is+the+first+step+to+improving+them" />
+    • Hello! i'm <strong>Caiky</strong> — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br></p>
+      
+      
       <!-- Frase com efeito de digitação animado (SVG) -->
 <p align="center">
 </p>
     
   </div>
   
---- 
+
     
 — Currently, i am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
 
@@ -35,6 +38,12 @@
 
 ---
 
+
+# 📌 GitHub Stats
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&bg_color=0d1117&li" alt="Streak Stats">
+  <hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=true&layout=compact" alt="Top Langs">
+  
   <!-- Social Links -->
   ### 📎 Socials
 
@@ -53,9 +62,5 @@
   
 
   <!-- Status -->
-  # 📌 GitHub Stats
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&bg_color=0d1117&li" alt="Streak Stats">
-  <hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=true&layout=compact" alt="Top Langs">
   
 </div>
