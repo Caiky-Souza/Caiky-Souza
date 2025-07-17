@@ -6,9 +6,24 @@
 
   <!-- Apresentação -->
   # 💻 $ whoami
+  
+  <!-- Frase de destaque -->
+<blockquote>
+  “The system is just a game. I just learned to cheat better than it.”
+</blockquote>
+
+<p><em>— Inspired by Wrench, Watch Dogs 2 (fictional character)</em></p>
+ 
   <p align="center">
     Hello! i'm <strong>Caiky</strong>  — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br>
+      <div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Understanding+systems+is+the+first+step+to+improving+them" />
+      <!-- Frase com efeito de digitação animado (SVG) -->
+<p align="center">
+</p>
     
+  </div>
+  
 --- 
     
 — Currently, i am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
