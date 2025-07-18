@@ -1,8 +1,11 @@
 <!-- Container principal -->
 <div align="center">
-<img src="https://img.shields.io/badge/Welcome_to_my_terminal-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000&color=00BFFF" />
+<img src="https://img.shields.io/badge/Welcome_to_my_terminal-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000&color=00BFFF" style="margin:100px;" /><br>
   <!-- Banner -->   
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=00BFFF&text=4Ø4:%20%20LIMITS%20NOT%20FOUND&fontColor=FFF&animation=blinking">
+
+
+  
+  <img src="output-onlinegiftools-com-ezgif.com-crop.gif">
   <!--<img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250705_195603.jpg" width="100%" alt="Banner do perfil">
 
   <!-- Apresentação -->
