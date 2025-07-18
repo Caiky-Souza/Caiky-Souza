@@ -14,17 +14,10 @@
 
 
 <!-- Who am i-->
-<h1 style="color:blue;">💻 $ whoami</h1>
+# 💻 $ whoami
 
-<!-- Watch dogs 2 Quote -->
-<blockquote>
-  “The system is just a game. I just learned to cheat better than it.”
-</blockquote>
+<hr>
 
-<p><em>— Inspired by Wrench, Watch Dogs 2 (fictional character)</em></p>
-
- ---
- 
 <!-- Title -->
 <h3 align="center">
 • Hello! I'm <strong>Caiky</strong>
@@ -35,12 +28,20 @@
 </h3>
 
 </div>
+
 <!-- Paragraphs -->
-<p>
-— Currently, I am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
-— With ~2 years of experience using <code>disnake</code> and <code>discord.py</code>, I’ve developed both utility and RPG bots for Discord.<br>
-— Passionate about <strong>software development</strong> and <strong>digital defense</strong>, I aim to integrate both in my future career.
-</p>
++ Currently, I am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
++ With ~2 years of experience using <code>disnake</code> and <code>discord.py</code>, I’ve developed both utility and RPG bots for Discord.<br>
++ Passionate about <strong>software development</strong> and <strong>digital defense</strong>, I aim to integrate both in my future career.
+
+---
+
+<!-- Watch dogs 2 Quote -->
+<blockquote align="center">
+  “The system is just a game. I just learned to cheat better than it.”
+</blockquote>
+
+<p align="center"><em>— Inspired by Wrench, Watch Dogs 2 (fictional character)</em></p>
 
 ---
 
@@ -64,7 +65,9 @@
   
 <!-- Socials -->
 <h1 align="center">📎 Socials</h1>
-<div style="display:flex; justify-content:space-between; flex-direction: row;">
+  
+<!-- Discord Presence -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/845713407730122812?bg=transparent)](https://discord.com/users/845713407730122812)
 
 <!-- Discord button -->
 [![Discord](https://img.shields.io/badge/Discord-21060b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XbpBs2xG)
@@ -73,11 +76,6 @@
 <a href="mailto:caikyhortasouza25@gmail.com">
 <img height="40px" src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail">
   </a>
-  
-<!-- Discord Presence -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/845713407730122812)](https://discord.com/users/845713407730122812)
-
-</div>
 
 ---
 
