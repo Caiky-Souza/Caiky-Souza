@@ -50,8 +50,8 @@
 <h1 align="center">⚒️ Development Skills</h1> 
 
 <!-- Languages -->
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=git,html,css,c,js,python,sqlite" alt="Dev Skills">
+### ⚙️ Languages
+<img src="https://skillicons.dev/icons?i=html,css,c,js,python,sqlite" alt="Dev Skills">
 
 <!-- Frameworks and tools-->
 ### 🔧 Tools && Frameworks
