@@ -2,26 +2,28 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Welcome_to_my_terminal-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000&color=00BFFF" />
   <!-- Banner -->   
-  <img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250705_195603.jpg" width="100%" alt="Banner do perfil">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=00BFFF&text=4Ø4:%20%20LIMITS%20NOT%20FOUND&fontColor=FFF&animation=blinking">
+  <!--<img src="https://github.com/Caiky-Souza/Caiky-Souza/blob/main/20250705_195603.jpg" width="100%" alt="Banner do perfil">
 
   <!-- Apresentação -->
   <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=>&nbsp+Accessing+Caiky's+workspace" />
   <h1 style="color:blue;">💻 $ whoami</h1>
-  
-  <!-- Frase de destaque -->
-<blockquote>
+
+  <blockquote>
   “The system is just a game. I just learned to cheat better than it.”
 </blockquote>
 
 <p><em>— Inspired by Wrench, Watch Dogs 2 (fictional character)</em></p>
- 
+
+  <!-- Frase de destaque -->
+
+  
  ---
  
-  <p align="center">
-    • Hello! i'm <strong>Caiky</strong> — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br></p>
+<h3 align="center">
+    • Hello! i'm <strong>Caiky</strong> — an aspiring full-stack <strong>software engineer</strong> 🇧🇷<br>
+</h3> 
       
-      
-      <!-- Frase com efeito de digitação animado (SVG) -->
 <p align="center">
 </p>
     
@@ -40,7 +42,7 @@
 
 
 # 📌 GitHub Stats
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&bg_color=0d1117&li" alt="Streak Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&line=00BFFF&hide_title=true&color=00BFFF&bg_color=0d1117&area=true&li" alt="Streak Stats">
   <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiky-Souza&theme=blue_navy&hide_border=true&layout=compact" alt="Top Langs">
   
@@ -54,13 +56,14 @@
 
   <!-- Skills -->
   ### ⚒️ Development Skills
-  <img src="https://skillicons.dev/icons?i=git,html,css,c,js,python,arduino" alt="Dev Skills">
+  <img src="https://skillicons.dev/icons?i=git,html,css,c,js,python,sqlite" alt="Dev Skills">
 
   <!-- Frameworks e ferramentas -->
   ### 🔧 Frameworks and Tools
-  <img src="https://skillicons.dev/icons?i=sqlite,django,vscode,linux,bash" alt="Ferramentas">
-  
-
-  <!-- Status -->
+  <img src="https://skillicons.dev/icons?i=arduino,django,vscode,linux,bash" alt="Ferramentas">
   
 </div>
+
+---
+
+
