@@ -22,12 +22,12 @@
 <h3 align="center">
 • Hello! I'm <strong>Caiky</strong>
 <br><br>
-— an aspiring full-stack 
-<strong>software engineer 🇧🇷</strong>
-<br>
 </h3>
-
 </div>
+
+<h2>An aspiring full-stack<br></h2>
+<h5>Software Engineer 🇧🇷</h5>
+<br>
 
 <!-- Paragraphs -->
 + Currently, I am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
@@ -67,7 +67,7 @@
 <h1 align="center">📎 Socials</h1>
   
 <!-- Discord Presence -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/845713407730122812?bg=transparent)](https://discord.com/users/845713407730122812)
+[![Discord Presence](https://lanyard.cnrad.dev/api/845713407730122812?bg=1f2a38)](https://discord.com/users/845713407730122812)
 
 <!-- Discord button -->
 [![Discord](https://img.shields.io/badge/Discord-21060b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XbpBs2xG)
