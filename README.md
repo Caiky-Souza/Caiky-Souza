@@ -29,9 +29,11 @@
 </div>
 
 <!-- Paragraphs -->
-+ Currently, I am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
-+ With ~2 years of experience using <code>disnake</code> and <code>discord.py</code>, I’ve developed both utility and RPG bots for Discord.<br>
-+ Passionate about <strong>software development</strong> and <strong>digital defense</strong>, I aim to integrate both in my future career.
++ Currently studying CS50x and CS50p, while building personal projects to solidify my skills in web development and programming fundamentals.
+
++ With around 2 years of experience using disnake and discord.py, I've developed both utility and RPG bots for Discord, combining logic, creativity, and community interaction.
+
++ Passionate about software engineering and digital defense, I aim to integrate both fields in my future career, focusing on building secure and creative digital solutions
 
 ---
 
@@ -66,7 +68,6 @@
 <h1 align="center">📎 Socials</h1>
   
 <!-- Discord Presence -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/845713407730122812?bg=1f2a38)](https://discord.com/users/845713407730122812)
 
 <!-- Discord button -->
 [![Discord](https://img.shields.io/badge/Discord-21060b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XbpBs2xG)
