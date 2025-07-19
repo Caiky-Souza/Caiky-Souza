@@ -23,11 +23,10 @@
 • Hello! I'm <strong>Caiky</strong>
 <br><br>
 </h3>
-</div>
 
-<h2>An aspiring full-stack<br></h2>
-<h5>Software Engineer 🇧🇷</h5>
-<br>
+
+<h2>An aspiring full-stack Software Engineer 🇧🇷</h2>
+</div>
 
 <!-- Paragraphs -->
 + Currently, I am studying <code>CS50x</code> and <code>CS50p</code> courses, while building personal projects along the way.<br>
