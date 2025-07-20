@@ -67,16 +67,23 @@
   
 <!-- Socials -->
 <h1 align="center">📎 Socials</h1>
-  
-<!-- Discord Presence -->
 
 <!-- Discord button -->
-[![Discord](https://img.shields.io/badge/Discord-21060b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XbpBs2xG)
+<div align="center">
+<a href="https://discord.com/users/845713407730122812">
+  <img src="https://img.shields.io/badge/-Discord-00BFFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
+</a>
 
 <!-- Gmail button -->
 <a href="mailto:caikyhortasouza25@gmail.com">
-<img height="40px" src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail">
-  </a>
+  <img src="https://img.shields.io/badge/-Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117">
+</a>
+</div>
+
+<!-- Discord Presence -->
+<div align="center" style="margin: 20px 0">
+  <img src="https://komarev.com/ghpvc/?username=Caiky-Souza&color=00BFFF&style=for-the-badge&label=Profile+Views"/>
+</div>
 
 ---
 
