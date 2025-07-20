@@ -17,7 +17,7 @@
 
 <!-- Title -->
 <h3 align="center">
-• Hello! I'm <strong>Caiky</strong>
+• 📂 /home/<strong>caiky</strong>
 <br>
 </h3>
 
