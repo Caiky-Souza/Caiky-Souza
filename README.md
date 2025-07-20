@@ -2,30 +2,31 @@
 <div align="center">
   
 <!-- Welcome to my Terminal-->
-<img src="https://img.shields.io/badge/Welcome_to_my_terminal-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000&color=00BFFF" style="margin:100px;" /><br><br>
+<img src="https://img.shields.io/badge/Welcome_to_my_terminal-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000&color=00BFFF" style="margin:100px;" /><br>
 
 <!-- 404 limits not found -->     
-<img src="output-onlinegiftools-com-ezgif.com-crop.gif"><br>
+<img src="output-onlinegiftools-com-ezgif.com-crop.gif"><br><br>
   
   
-<!-- Acessing Caiky's workspace -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=>&nbsp+Accessing+Caiky's+workspace" />
+
 
 
 
 <!-- Who am i-->
 # 💻 $ whoami
 
-<hr>
-
 <!-- Title -->
 <h3 align="center">
 • Hello! I'm <strong>Caiky</strong>
-<br><br>
+<br>
 </h3>
 
+<hr>
 
-<h2>An aspiring full-stack Software Engineer 🇧🇷</h2>
+<!-- Acessing Caiky's workspace -->
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=>+Accessing+Caiky's+Bio..." />
+
+<h2>Learning to Build - and Break - Software Systems 🇧🇷</h2>
 </div>
 
 <!-- Paragraphs -->
