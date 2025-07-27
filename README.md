@@ -23,9 +23,6 @@
 
 <hr>
 
-<!-- Acessing Caiky's workspace -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=>+Accessing+Caiky's+Bio..." />
-
 <h2>Learning to build - and Secure - Software Systems 🇧🇷</h2>
 </div>
 
