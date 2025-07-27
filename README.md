@@ -59,7 +59,15 @@
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu" alt="Ferramentas">
 </div>
 
-  
+
+---
+
+<!-- Github Stats-->
+<h1 align="center">📌 GitHub Stats</h1>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&line=00BFFF&hide_title=true&color=00BFFF&bg_color=0d1117&area=true&li" alt="Streak Stats">
+
+---
+
 <!-- Socials -->
 <h1 align="center">📎 Socials</h1>
 
@@ -79,11 +87,3 @@
 <div align="center" style="margin: 20px 0">
   <img src="https://komarev.com/ghpvc/?username=Caiky-Souza&color=00BFFF&style=for-the-badge&label=Profile+Views"/>
 </div>
-
----
-
-<!-- Github Stats-->
-<h1 align="center">📌 GitHub Stats</h1>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Caiky-Souza&theme=tokyo-night&hide_border=true&line=00BFFF&hide_title=true&color=00BFFF&bg_color=0d1117&area=true&li" alt="Streak Stats">
-
----
