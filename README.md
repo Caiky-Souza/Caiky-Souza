@@ -21,8 +21,6 @@
 <br>
 </h3>
 
-<hr>
-
 <h2>Learning to build - and Secure - Software Systems 🇧🇷</h2>
 </div>
 
